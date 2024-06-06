@@ -32,11 +32,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/malaykumar50933"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="malaykumar50933" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malay207&show_icons=true&locale=en&layout=compact" alt="malay207" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malay207&show_icons=true&locale=en&layout=compact" alt="malay207" width="500" /></p>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=malay207&show_icons=true&locale=en" alt="malay207" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=malay207&" alt="malay207" />
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=malay207&show_icons=true&locale=en" alt="malay207" width="450" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=malay207&" alt="malay207" width="450"/>
 </p>
 
 <p></p>
